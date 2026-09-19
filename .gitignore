@@ -1,0 +1,10 @@
+.DS_Store
+._*
+.env
+.env.*
+*.pem
+*.key
+*secret*
+*секрет*
+node_modules/
+*.zip
